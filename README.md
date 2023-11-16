@@ -111,3 +111,4 @@
 ## Контактная информация
 - Email: 2803ksena21@gmail.com
  <li> tel: 8-910-709-67-62
+<li> телеграм:https://web.telegram.org/k/
